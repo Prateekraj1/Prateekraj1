@@ -2,11 +2,11 @@
 ![Unit Tests](https://github.com/mattrltrent/random_assets/actions/workflows/unit_tests.yml/badge.svg)
 
 
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'></img>
 ## About Me 🚀
 
 I'm a passionate **Software Developer** with experience in **PHP, JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB, MySQL**, and more. I love solving complex problems, optimizing system performance, and building scalable, user-focused applications.
 
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'></img>
 - 🌱 Currently learning: **Docker, Advanced System Design, Microservices Architecture**
 - 🔭 Working on: **Scaling real-time applications and building side projects like AnimeWatcher and ChatMe**
 - 🌍 Languages: **JavaScript, TypeScript, PHP, Python, English, Hindi**
