@@ -45,15 +45,9 @@ This project demonstrates my ability to **implement WebSockets, real-time commun
 
 ---
 ## 📊 GitHub Stats & Insights
-
-### Profile Details & GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prateekraj1&theme=default)  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prateekraj1&theme=default)
-
-### Repos Per Language & Most Commit Language
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prateekraj1&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prateekraj1&theme=default)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prateekraj1&theme=default)
-
-### Productive Time
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prateekraj1&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prateekraj1&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prateekraj1&theme=default&utcOffset=8)
 
 NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 ---
