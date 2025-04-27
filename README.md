@@ -44,10 +44,24 @@ This project showcases my skills in **authentication, server-side rendering, RES
 This project demonstrates my ability to **implement WebSockets, real-time communication, and secured user authentication**. Check out the repository [here](https://github.com/Prateekraj1/chat-application-2).
 
 ---
-## 📊 Yearly Commit Stats
-This graph represents my yearly commit activity across both public and private repositories. It includes all contributions made in my personal projects, collaborations, and any private repositories I'm working on.
+## 📊 GitHub Stats & Insights
 
-![Yearly Commits](https://github.com/Prateekraj1/Prateekraj1/blob/main/git-commits%20(1).png)
+### Profile Details
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prateekraj1&theme=default)
+
+### Repos Per Language
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prateekraj1&theme=default)
+
+### Most Commit Language
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prateekraj1&theme=default)
+
+### GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prateekraj1&theme=default)
+
+### Productive Time
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prateekraj1&theme=default&utcOffset=8)
+
+NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 ---
 
 ## Get in Touch 📬
