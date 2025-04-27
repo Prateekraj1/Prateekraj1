@@ -32,16 +32,12 @@ I'm a passionate **Software Developer** with experience in **PHP, JavaScript, Ty
 
 ### [AnimeWatcher](https://github.com/Prateekraj1/anime-watcher)
 
-![AnimeWatcher Screenshot](your_animewatcher_screenshot_url)
-
 **AnimeWatcher** is an anime streaming platform featuring login/signup authentication, custom video streaming, and smooth UI built with **Next.js, MongoDB, JWT, TailwindCSS**.  
 This project showcases my skills in **authentication, server-side rendering, REST APIs, and responsive frontend development**. Check it out [here](https://github.com/Prateekraj1/anime-watcher).
 
 ---
 
 ### [ChatMe](https://github.com/Prateekraj1/chat-application-2)
-
-![ChatMe Screenshot](your_chatme_screenshot_url)
 
 **ChatMe** is a real-time one-on-one messaging app built with **Next.js, Node.js, Socket.io, MongoDB**.  
 This project demonstrates my ability to **implement WebSockets, real-time communication, and secured user authentication**. Check out the repository [here](https://github.com/Prateekraj1/chat-application-2).
