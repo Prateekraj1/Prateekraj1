@@ -43,6 +43,10 @@ This project showcases my skills in **authentication, server-side rendering, RES
 This project demonstrates my ability to **implement WebSockets, real-time communication, and secured user authentication**. Check out the repository [here](https://github.com/Prateekraj1/chat-application-2).
 
 ---
+## 📊 Yearly Commit Stats
+
+![Yearly Commits](https://github.com/Prateekraj1/Prateekraj1/blob/main/git-commits%20(1).png)
+---
 
 ## Get in Touch 📬
 
