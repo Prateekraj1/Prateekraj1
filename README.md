@@ -44,6 +44,7 @@ This project demonstrates my ability to **implement WebSockets, real-time commun
 
 ---
 ## 📊 Yearly Commit Stats
+This graph represents my yearly commit activity across both public and private repositories. It includes all contributions made in my personal projects, collaborations, and any private repositories I'm working on.
 
 ![Yearly Commits](https://github.com/Prateekraj1/Prateekraj1/blob/main/git-commits%20(1).png)
 ---
