@@ -1,6 +1,8 @@
 # Hi there, I'm Prateek Raj! 👋
 ![Unit Tests](https://github.com/mattrltrent/random_assets/actions/workflows/unit_tests.yml/badge.svg)
 
+
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'>
 ## About Me 🚀
 
 I'm a passionate **Software Developer** with experience in **PHP, JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB, MySQL**, and more. I love solving complex problems, optimizing system performance, and building scalable, user-focused applications.
