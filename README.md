@@ -9,7 +9,7 @@ I'm a passionate **Software Developer** with experience in **PHP, JavaScript, Ty
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'></img>
 - 🌱 Currently learning: **Docker, Advanced System Design, Microservices Architecture**
 - 🔭 Working on: **Scaling real-time applications and building side projects like AnimeWatcher and ChatMe**
-- 🌍 Languages: **JavaScript, TypeScript, PHP, Python, English, Hindi**
+- 🌍 Languages: **JavaScript, TypeScript, PHP, Python**
 - 📫 How to reach me: **parteekraj8@gmail.com**
 - ⚡ Fun fact: **I once handled a WebSocket-based live chat system with 1000+ users simultaneously without a single message delay!**
 
