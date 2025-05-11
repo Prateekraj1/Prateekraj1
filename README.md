@@ -54,7 +54,7 @@ This project demonstrates my ability to **implement WebSockets, real-time commun
 NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 
 ## Get in Touch 📬
-
+- **[Portfolio](https://portfolio-2te9.onrender.com/home)**
 - **[LeetCode](https://leetcode.com/parteekraj8/)**
 - **[GitHub](https://github.com/Prateekraj1)**
 - **[LinkedIn](https://linkedin.com/in/prateek-raj-729872212)**
